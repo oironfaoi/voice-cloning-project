@@ -1,0 +1,14 @@
+[2026-04-11 13:37:04] INFO - 📝 Log file: D:\00 P.PhD\Github\voice-cloning-project\outputs\logs\clone_20260411_133704.log
+[2026-04-11 13:37:04] INFO - Model đã có sẵn tại: D:\00 P.PhD\Github\voice-cloning-project\models\vixtts
+[2026-04-11 13:37:04] INFO - Đang load viXTTS...
+[2026-04-11 13:37:55] INFO - Đã patch tokenizer.char_limits['vi'] = 250
+[2026-04-11 13:37:56] INFO - Đang chạy bằng GPU.
+[2026-04-11 13:37:56] INFO - Load model xong sau 51.8s
+[2026-04-11 13:37:56] INFO - Reference WAV: D:\00 P.PhD\Github\voice-cloning-project\data\reference_voices\converted\my_voice_std.wav
+[2026-04-11 13:37:56] INFO - Duration: 27.73s
+[2026-04-11 13:37:56] INFO - Text: Xin chào. Đây là thử nghiệm nhân bản giọng nói tiếng Việt bằng mô hình viXTTS. Câu nên đủ dài để âm thanh tự nhiên hơn.
+[2026-04-11 13:37:56] INFO - Language: vi
+[2026-04-11 13:37:56] INFO - Output: D:\00 P.PhD\Github\voice-cloning-project\outputs\cloned\vi_clone_20260411_133756.wav
+[2026-04-11 13:37:56] INFO - Đang tính speaker embedding...
+[2026-04-11 13:37:58] INFO - Tách thành 3 câu
+[2026-04-11 13:37:58] INFO - [1/3] Xin chào.

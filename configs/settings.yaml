@@ -1,0 +1,17 @@
+model:
+  name: "capleaf/viXTTS"
+  cache_dir: "models/vixtts"
+
+device: "cuda"
+
+audio:
+  sample_rate: 24000
+  format: "wav"
+
+paths:
+  reference_voices: "./data/reference_voices"
+  texts: "./data/texts"
+  output_dir: "./outputs/cloned"
+  log_dir: "./outputs/logs"
+
+language: "vi"

@@ -1,0 +1,145 @@
+[2026-04-21 12:19:49] INFO - 📝 Log file: D:\00 P.PhD\Github\voice-cloning-project\outputs\logs\clone_20260421_121949.log
+[2026-04-21 12:19:49] INFO - Model đã có sẵn tại: D:\00 P.PhD\Github\voice-cloning-project\models\vixtts
+[2026-04-21 12:19:49] INFO - Đang load viXTTS...
+[2026-04-21 12:20:33] INFO - Đã patch tokenizer.char_limits['vi'] = 250
+[2026-04-21 12:20:33] INFO - Đã patch tokenizer.preprocess_text cho tiếng Việt.
+[2026-04-21 12:20:33] INFO - Đã patch tokenizer.encode cho tiếng Việt.
+[2026-04-21 12:20:35] INFO - Đang chạy bằng GPU.
+[2026-04-21 12:20:35] INFO - Load model xong sau 45.1s
+[2026-04-21 12:20:35] INFO - Reference WAV: D:\00 P.PhD\Github\voice-cloning-project\data\reference_voices\converted\my_voice_std.wav
+[2026-04-21 12:20:35] INFO - Duration: 9.99s
+[2026-04-21 12:20:35] INFO - Text: # Người trong bao - Sê-khốp Sê-khốp (1860 - 1904) là một trong những cây đại thụ của rừng văn học Nga, đã để lại nhiều kịch bản và hơn năm trăm truyện ngắn. Tác phẩm của ông làm hiện lên toàn cảnh xã hội nước Nga cuối thế kỉ XIX ngạt thở trong bầu không khí chuyên chế bảo thủ nặng nề dưới thời Sa hoàng. Truyện ngắn **Người trong bao** được ông viết vào năm 1898. Qua nhân vật Bê-li-cốp, tác giả châm biếm và đả kích người trí thức Nga sống tầm thường, hủ lậu, hèn nhát và giáo điều, đê tiện, dung tục; đồng thời chỉ ra lối sống ấy đã để lại nhiều di hại đầu độc tâm hồn người, đầu độc cuộc sống, gây ảnh hưởng và hậu quả nặng nề, dai dẳng trong xã hội nước Nga. Cái bao mang hàm nghĩa về một kiếp người, một lối sống, một xã hội đen tối, tù túng, nặng nề mà không sao thoát ra được, chết rồi cũng không thoát ra được. ## Người trong bao Cuộc đời của anh giáo chức tỉnh lẻ Bê-li-cốp là trang hài, là một bức tranh biếm họa cười ra nước mắt. Chả thế mà cô giáo Va-ren-ca đã cười phá lên khi Bê-li-cốp bị xô ngã lộn nhào xuống chân cầu thang, và cô đã òa khóc lên khi hắn đã nằm trong bao đi chầu âm phủ! Bê-li-cốp là giáo viên trung học dạy tiếng Hi Lạp. Hắn quen sống trong tù túng, nô lệ. Với hắn thì nếu không có chỉ thị nào cho phép thì ta không được làm. Hắn sống vì quá khứ, như một kẻ mang bệnh tâm thần, lúc nào cũng sống trong tâm trạng sợ hãi, lo âu, nhút nhát; hắn ghê tởm đối với hiện tại, hắn ngợi ca quá khứ và ngợi ca những gì không bao giờ có thật. Hắn chỉ có một chút niềm vui do bệnh nghề nghiệp sinh ra. Hắn nói ngọt ngào: *Ới, tiếng Hi Lạp nghe thật tuyệt vời êm tai*, rồi nheo mắt lại, giơ một ngón tay lên và thốt ra tiếng: *An-thro-pos*. Phải chăng lúc đó gã Bê-li-cốp hạnh phúc nhất? Chắc lúc ấy hắn đã thò đầu ra khỏi cái bao trong khoảnh khắc! Bê-li-cốp sống một cách kì quặc, lập dị, lẩm cẩm. Con người hắn, cuộc đời hắn, từ cử chỉ, hành động đến ngôn ngữ, sinh hoạt đều kì quặc. Hắn như đã bị cầm tù, đã bị nhốt vào bao. Quanh năm suốt tháng, nắng mưa ngay cả mùa hạ hắn vẫn khoác chiếc áo bành tô ấm cốt bông. Lúc nào chân cũng đi giày cao su. Chiếc ô, quả đồng hồ quýt, con dao nhỏ để gọt bút chì.. tất cả đều đút trong bao. Ngồi xe ngựa, hắn bắt phải hạ mui xe. Bộ mặt hắn cũng được giấu kín trong bao, đó là cái cổ áo bành tô cổ bẻ. Lỗ tai hắn cũng nhét bông. Mọi ý nghĩ, hắn cũng giấu vào bao. Với hắn thì cái bao là cái vỏ bọc để ngăn cách, bảo vệ hắn khỏi những ảnh hưởng bên ngoài. Nhưng thật hài hước, đầu óc hắn cũng chỉ là một cái bao cổ hủ để bọc lấy những chỉ thị, thông tư, những bài báo quy định cấm đoán điều này điều nọ mà hắn cho rằng rõ ràng. Hắn vừa hèn vừa đáng thương! Hắn thật tội nghiệp! Qua các chi tiết nói về cái bao, tác giả châm biếm một loạt linh hồn chết trong xã hội Nga cuối thế kỉ XIX, đó là loại trí thức sống lạc hậu, cổ hủ, hèn hạ, mù quáng; sống cuộc đời chật hẹp, tù túng. Cách sống của Bê-li-cốp cũng rất kì lạ. Hắn có một thói quen kì quặc. Hắn thường đến nhà các giáo viên, nhưng hắn nói đến để duy trì những mối quan hệ tốt với bạn bè. Nhưng hắn đến mà chẳng nói chẳng rằng, cứ ngồi im như phỗng, mắt thì nhìn quanh như tìm kiếm vật gì, độ một giờ sau thì cáo từ. Tính hắn hâm hay hắn là một mật vụ đang lân la dò xét? Vì thế, giáo viên nào trong trường cũng sợ hắn. Cả hiệu trưởng, oai quyền là thế cũng sợ hắn. Cả thành phố đều sợ hắn. Các bà, các cô không dám diễn kịch vào tối thứ bảy vì sợ rằng nhỡ hắn biết thì phiền. Giới tu hành không dám ăn thịt và đánh bài khi có mặt hắn. Bê-li-cốp như một bóng ma, một hung thần gieo rắc sợ hãi, làm cho dân chúng trong thành phố suốt một thời gian dài mười lăm năm trời sợ nói to, sợ gửi thư, sợ làm quen, sợ đọc sách, sợ giúp đỡ người nghèo.. Sê-khốp đã chỉ ra và cho thấy loại người trong bao, lối sống trong bao thật vô cùng đáng sợ. Loại người ấy, lối sống ấy đã tỏa chiết tâm hồn người, bao phủ lên khắp nơi một bóng đen đáng sợ. Vì quanh năm suốt tháng tự nhốt mình vào trong bao nên Bê-li-cốp như một người bệnh tưởng, trầm cảm. Hắn sợ ánh sáng, sợ bóng tối, sợ trộm vào nhà, sợ lão nấu bếp cắt cổ hắn. Nhà lúc nào cũng đóng chặt cửa, cài then, trùm chăn kín mít đầu lúc ngủ. Mùa hè cũng như mùa đông, hắn đều mặc áo khoác ngoài. Suốt đêm, hắn mơ toàn những điều khủng khiếp. Vì thế buổi sáng nào đến lớp, mặt hắn cũng tái nhợt, rầu rĩ một cách thảm hại! Lối sống đó là sống khổ, sống mà như chết. Bê-li-cốp đã tự cầm tù mình, đày đọa mình, gây đau khổ cho mình. Hắn thật đáng thương hại. Hóm hỉnh và ý vị biết bao khi tác giả nói về bi kịch ái tình của Bê-li-cốp. Cô giáo Va-ren-ca khoảng ba mươi tuổi mới về trường, thế là nữ thần ái tình đến gõ cửa trái tim Bê-li-cốp. Trên bàn trong ngôi nhà chật như cái hộp, hắn trân trọng đặt tấm ảnh người đẹp. Ý định lấy vợ choáng ngợp tâm hồn hắn, nhưng vì quen sống trong bao nên hắn cứ lần lữa, đắn đo. Hắn bị ghép đôi, rồi hắn có vẻ thích Va-ren-ca.. thế là bức tranh biếm họa kể si tình được gởi đến tất cả giáo viên hai trường nam nữ, giáo viên chủng viện, các viên chức và cả Bê-li-cốp nữa. Bức biếm họa mới gợi tình làm sao: Bê-li-cốp đang đi, chân xỏ trong giày mưa, quần túm ống, tay cầm ô, tay khoác tay Va-ren-ca. Chà! Người trong bao lãng mạn và đa tình quá! Nhưng Bê-li-cốp lại bị sốc, bức tranh gây cho hắn một ấn tượng nặng nề. Tác giả đã tạo nên những chi tiết điển hình, những tình huống điển hình để khắc họa tính cách của Bê-li-cốp. Dư vị chua cay, hài hước của câu chuyện càng trở nên hấp dẫn, lôi cuốn. Bê-li-cốp chẳng gặp hên chút nào! Ngày chủ nhật, mồng một tháng năm hôm ấy, thầy trò cả trường trung học tổ chức cùng đi ra ngoài thành phố vào rừng chơi. Nhưng anh chàng Bê-li-cốp đã bỏ về giữa chừng. Giữa đường hắn bất ngờ thấy hai chị em Va-ren-ca cưỡi xe đạp phóng qua. Cô chị mặt mày đỏ ửng, hớn hở, vui vẻ gào to: *Trời hôm nay đẹp thật, tuyệt đẹp, đẹp ghê gớm!*. Bê-li-cốp ngẩn người ra, như bị choáng, bị ma ám, mặt mày đang từ xanh lét chuyển sang trắng bệch. Hắn phàn nàn, trách cứ: *Chẳng lẽ giáo viên và đàn bà con gái lại có thể cưỡi xe đạp, làm như thế coi sao tiện?*. Phải chăng hắn là một kẻ cổ hủ đáng cười? Phải chăng hắn là một nhà mô phạm đang bảo vệ nền đạo đức chính thống? Suốt ngày hôm sau, hắn đau khổ, dằn vặt, bực dọc, toàn thân run lên; thậm chí hắn bỏ cả buổi lên lớp, bỏ cả cơm trưa. Tối hôm đó, dù đang tiết mùa hạ, nhà đạo đức bèn mặc áo ấm lần mò đến nhà hai chị em Va-ren-ca. Cô chị đi vắng, hắn chỉ gặp được người em. Hắn thật thà thanh minh về bức tranh châm biếm. Hắn khẳng định, phân tích nhân cách tử tế, đứng đắn của mình. Lấy tư cách là bạn đồng nghiệp đi trước, hắn nhắc nhở kẻ mới bắt đầu đi làm đôi điều. Hắn chê trách việc đi xe đạp của hai chị em Va-ren-ca hoàn toàn không phù hợp với tư thế của một nhà giáo dục thiếu niên. Hắn cảnh cáo việc đi xe đạp ấy là thiếu gương mẫu, là trái pháp luật, trái nội quy vì chưa có chỉ thị nào cho phép thì không được làm. Hắn bày tỏ thái độ nào là phát kinh lên, hoa mắt lên khi nhìn thấy cảnh đàn bà, con gái đi xe đạp! Hắn khuyên nhủ Cô-va-len-cô phải xử sự thận trọng, không được mặc áo thêu ra đường, không được cầm sách này sách nọ vừa đi vừa đọc.., hắn nhắc nhở nếu chuyện ấy đến tai hiệu trưởng, ông thanh tra thì còn ra cái thể thống gì nữa. Khi bị Cô-va-len-cô cự lại, hắn răn dạy: *Anh cần phải có thái độ kính trọng đối với chính quyền*. Hắn dọa sẽ báo cáo với ngài hiệu trưởng nội dung câu chuyện mà hắn và Cô-va-len-cô đã trao đổi. Cuộc đôi co diễn ra. Cô-va-len-cô thô bạo chỉ vào mặt Bê-li-cốp và bảo hắn là tên mách lẻo, rồi túm lấy cổ áo hắn, tống hắn ra khỏi nhà. Hắn lộn nhào xuống cầu thang. Sự việc diễn ra đầy kịch tính. Khi Bê-li-cốp sờ lên mũi xem cặp kính có còn nguyên vẹn hay không, thì Va-ren-ca bỗng nhiên xuất hiện, nhìn thấy. Bê-li-cốp đau khổ cảm thấy thà tự vặt cổ còn hơn là tự biến thành trò cười cho thiên hạ. Hắn vô cùng lo sợ câu chuyện sẽ đến tai thầy hiệu trưởng, ngài thanh tra. Người ta sẽ vẽ tranh châm biếm hắn, sẽ ép hắn về hưu.. Có bao chi tiết bi hài. Nhất là khi Va-ren-ca phá lên cười vang khắp khu nhà. Tiếng cười *ha - ha - ha* lảnh lót, âm vang đã chấm dứt tất cả: chấm dứt chuyện cưới xin, chấm dứt cả cuộc đời Bê-li-cốp. Cái ngã của Bê-li-cốp xuống chân cầu thang và điệu cười của Va-ren-ca có giá trị và ý nghĩa phê phán một cách chua cay lối sống giáo điều, dung tục của hạng người trong bao. Kẻ hủ lậu lên mặt đạo đức giả, dạy đời bằng bài học luân lí cổ hủ đã bị tác giả châm biếm qua một tình huống bi hài. Chỉ sau một tháng bị xô ngã, Bê-li-cốp chết. Trước khi đi chầu Diêm Vương, hắn không quên cất tấm ảnh của Va-ren-ca để trên bàn đi. Hắn nằm trong quan tài với vẻ mặt hiền lành, dễ chịu, tươi tỉnh. Phải chăng hắn mừng vì được chui vào cái bao vĩnh viễn. Đám ma hắn được cử hành trong một buổi trời mưa dầm âm u. Lúc hạ huyệt, Va-ren-ca bỗng òa lên khóc. Nàng khóc vì thương tiếc cho một thiên tình sử chăng? Nàng khóc vì thương hại một con người bảo thủ, cổ hủ từng làm trò cười cho thiên hạ chăng? Sau khi Bê-li-cốp chết, lúc đầu ai cũng cảm thấy nhẹ nhàng, thoải mái. Nhưng rồi chưa đầy một tuần sau, ai cũng cảm thấy nặng nề, mệt nhọc, vô vị vì cuộc sống đã lại diễn ra như cũ, chẳng tốt đẹp gì hơn trước. Một Bê-li-cốp chết, một người trong bao đã chết nhưng còn biết bao nhiêu người trong bao nữa. Tác giả đã chỉ rõ: lối sống tầm thường, hủ lậu, giáo điều.. đã đầu độc con người, đầu độc cuộc sống, sẽ gây ra bao hậu quả nặng nề, sẽ tồn tại dai dẳng trong xã hội Nga những năm cuối thế kỉ XIX đầu thế kỉ XX. Mọi quái thai, mọi ung nhọt trong xã hội xưa nay đâu dễ một sớm một chiều mà tiệt nọc. Một Bê-li-cốp chết đi nhưng sẽ còn bao nhiêu Bê-li-cốp nữa. Phải biết coi khinh lối sống cổ hủ, coi khinh tính cách bọn người trong bao. Phải biết sống và dám sống với tinh thần tự chủ, sống có trí tuệ và đạo đức của con người mới. Đọc truyện này, ta phải biết tự hỏi bản thân sống như thế nào cho đáng sống. Sê-khốp đã có một lối viết khá hấp dẫn. Diễn biến câu chuyện được kể lại một cách tự nhiên, chân thực và sinh động. Nhân vật Bê-li-cốp từ vật dụng, cử chỉ, hành động, ý nghĩ đến lối sống được thể hiện bằng nhiều chi tiết rất điển hình. Hắn là sản phẩm tất yếu của cái xã hội tù túng, trì trệ. Nhân vật Va-ren-ca là một nét vẽ đầy tương phản, ấn tượng. Nàng yêu đời, sống hồn nhiên, hay ca hát, hay cười, động một tí là cười phá lên. Cuộc sống tự do, phóng túng của hai chị em nàng đã làm xao động cái không khí buồn thảm nơi tỉnh lẻ và làm rách nát cái bao của Bê-li-cốp, đẩy hắn ta nằm yên trong quan tài - cái bao nơi âm phủ. Bức tranh biếm họa, cái ngã cầu thang, cái chết lặng lẽ và đám ma của Bê-li-cốp có giá trị và ý nghĩa phê phán, châm biếm sâu cay. **Người trong bao** là một truyện ngắn đầy dư vị đưa độc giả tự đi tìm bóng mình và soi vào bóng người để mà sống có ý nghĩa hơn như văn hào Lỗ Tấn đã nói.
+[2026-04-21 12:20:35] INFO - Language: vi
+[2026-04-21 12:20:35] INFO - Output: D:\00 P.PhD\Github\voice-cloning-project\outputs\cloned\vi_clone_20260421_122035.wav
+[2026-04-21 12:20:35] INFO - Đang tính speaker embedding...
+[2026-04-21 12:20:36] INFO - Tách thành 128 câu
+[2026-04-21 12:20:36] INFO - [1/128] # Người trong bao - Sê-khốp Sê-khốp (1860 - 1904) là một trong những cây đại thụ của rừng văn học Nga, đã để lại nhiều kịch bản và hơn năm trăm truyện ngắn.
+[2026-04-21 12:20:47] INFO - [2/128] Tác phẩm của ông làm hiện lên toàn cảnh xã hội nước Nga cuối thế kỉ XIX ngạt thở trong bầu không khí chuyên chế bảo thủ nặng nề dưới thời Sa hoàng.
+[2026-04-21 12:20:53] INFO - [3/128] Truyện ngắn **Người trong bao** được ông viết vào năm 1898.
+[2026-04-21 12:20:58] INFO - [4/128] Qua nhân vật Bê-li-cốp, tác giả châm biếm và đả kích người trí thức Nga sống tầm thường, hủ lậu, hèn nhát và giáo điều, đê tiện, dung tục; đồng thời chỉ ra lối sống ấy đã để lại nhiều di hại đầu độc tâm hồn người, đầu độc cuộc sống, gây ảnh hưởng và hậu quả nặng nề, dai dẳng trong xã hội nước Nga.
+[2026-04-21 12:21:13] INFO - [5/128] Cái bao mang hàm nghĩa về một kiếp người, một lối sống, một xã hội đen tối, tù túng, nặng nề mà không sao thoát ra được, chết rồi cũng không thoát ra được.
+[2026-04-21 12:21:19] INFO - [6/128] ## Người trong bao Cuộc đời của anh giáo chức tỉnh lẻ Bê-li-cốp là trang hài, là một bức tranh biếm họa cười ra nước mắt.
+[2026-04-21 12:21:24] INFO - [7/128] Chả thế mà cô giáo Va-ren-ca đã cười phá lên khi Bê-li-cốp bị xô ngã lộn nhào xuống chân cầu thang, và cô đã òa khóc lên khi hắn đã nằm trong bao đi chầu âm phủ!
+[2026-04-21 12:21:32] INFO - [8/128] Bê-li-cốp là giáo viên trung học dạy tiếng Hi Lạp.
+[2026-04-21 12:21:35] INFO - [9/128] Hắn quen sống trong tù túng, nô lệ.
+[2026-04-21 12:21:38] INFO - [10/128] Với hắn thì nếu không có chỉ thị nào cho phép thì ta không được làm.
+[2026-04-21 12:21:41] INFO - [11/128] Hắn sống vì quá khứ, như một kẻ mang bệnh tâm thần, lúc nào cũng sống trong tâm trạng sợ hãi, lo âu, nhút nhát; hắn ghê tởm đối với hiện tại, hắn ngợi ca quá khứ và ngợi ca những gì không bao giờ có thật.
+[2026-04-21 12:21:51] INFO - [12/128] Hắn chỉ có một chút niềm vui do bệnh nghề nghiệp sinh ra.
+[2026-04-21 12:21:54] INFO - [13/128] Hắn nói ngọt ngào: *Ới, tiếng Hi Lạp nghe thật tuyệt vời êm tai*, rồi nheo mắt lại, giơ một ngón tay lên và thốt ra tiếng: *An-thro-pos*.
+[2026-04-21 12:22:00] INFO - [14/128] Phải chăng lúc đó gã Bê-li-cốp hạnh phúc nhất?
+[2026-04-21 12:22:03] INFO - [15/128] Chắc lúc ấy hắn đã thò đầu ra khỏi cái bao trong khoảnh khắc!
+[2026-04-21 12:22:06] INFO - [16/128] Bê-li-cốp sống một cách kì quặc, lập dị, lẩm cẩm.
+[2026-04-21 12:22:08] INFO - [17/128] Con người hắn, cuộc đời hắn, từ cử chỉ, hành động đến ngôn ngữ, sinh hoạt đều kì quặc.
+[2026-04-21 12:22:13] INFO - [18/128] Hắn như đã bị cầm tù, đã bị nhốt vào bao.
+[2026-04-21 12:22:15] INFO - [19/128] Quanh năm suốt tháng, nắng mưa ngay cả mùa hạ hắn vẫn khoác chiếc áo bành tô ấm cốt bông.
+[2026-04-21 12:22:19] INFO - [20/128] Lúc nào chân cũng đi giày cao su.
+[2026-04-21 12:22:22] INFO - [21/128] Chiếc ô, quả đồng hồ quýt, con dao nhỏ để gọt bút chì..
+[2026-04-21 12:22:25] INFO - [22/128] tất cả đều đút trong bao.
+[2026-04-21 12:22:27] INFO - [23/128] Ngồi xe ngựa, hắn bắt phải hạ mui xe.
+[2026-04-21 12:22:30] INFO - [24/128] Bộ mặt hắn cũng được giấu kín trong bao, đó là cái cổ áo bành tô cổ bẻ.
+[2026-04-21 12:22:34] INFO - [25/128] Lỗ tai hắn cũng nhét bông.
+[2026-04-21 12:22:37] INFO - [26/128] Mọi ý nghĩ, hắn cũng giấu vào bao.
+[2026-04-21 12:22:39] INFO - [27/128] Với hắn thì cái bao là cái vỏ bọc để ngăn cách, bảo vệ hắn khỏi những ảnh hưởng bên ngoài.
+[2026-04-21 12:22:43] INFO - [28/128] Nhưng thật hài hước, đầu óc hắn cũng chỉ là một cái bao cổ hủ để bọc lấy những chỉ thị, thông tư, những bài báo quy định cấm đoán điều này điều nọ mà hắn cho rằng rõ ràng.
+[2026-04-21 12:22:50] INFO - [29/128] Hắn vừa hèn vừa đáng thương!
+[2026-04-21 12:22:53] INFO - [30/128] Hắn thật tội nghiệp!
+[2026-04-21 12:22:55] INFO - [31/128] Qua các chi tiết nói về cái bao, tác giả châm biếm một loạt linh hồn chết trong xã hội Nga cuối thế kỉ XIX, đó là loại trí thức sống lạc hậu, cổ hủ, hèn hạ, mù quáng; sống cuộc đời chật hẹp, tù túng.
+[2026-04-21 12:23:05] INFO - [32/128] Cách sống của Bê-li-cốp cũng rất kì lạ.
+[2026-04-21 12:23:08] INFO - [33/128] Hắn có một thói quen kì quặc.
+[2026-04-21 12:23:10] INFO - [34/128] Hắn thường đến nhà các giáo viên, nhưng hắn nói đến để duy trì những mối quan hệ tốt với bạn bè.
+[2026-04-21 12:23:14] INFO - [35/128] Nhưng hắn đến mà chẳng nói chẳng rằng, cứ ngồi im như phỗng, mắt thì nhìn quanh như tìm kiếm vật gì, độ một giờ sau thì cáo từ.
+[2026-04-21 12:23:20] INFO - [36/128] Tính hắn hâm hay hắn là một mật vụ đang lân la dò xét?
+[2026-04-21 12:23:24] INFO - [37/128] Vì thế, giáo viên nào trong trường cũng sợ hắn.
+[2026-04-21 12:23:27] INFO - [38/128] Cả hiệu trưởng, oai quyền là thế cũng sợ hắn.
+[2026-04-21 12:23:30] INFO - [39/128] Cả thành phố đều sợ hắn.
+[2026-04-21 12:23:32] INFO - [40/128] Các bà, các cô không dám diễn kịch vào tối thứ bảy vì sợ rằng nhỡ hắn biết thì phiền.
+[2026-04-21 12:23:36] INFO - [41/128] Giới tu hành không dám ăn thịt và đánh bài khi có mặt hắn.
+[2026-04-21 12:23:39] INFO - [42/128] Bê-li-cốp như một bóng ma, một hung thần gieo rắc sợ hãi, làm cho dân chúng trong thành phố suốt một thời gian dài mười lăm năm trời sợ nói to, sợ gửi thư, sợ làm quen, sợ đọc sách, sợ giúp đỡ người nghèo..
+[2026-04-21 12:23:48] INFO - [43/128] Sê-khốp đã chỉ ra và cho thấy loại người trong bao, lối sống trong bao thật vô cùng đáng sợ.
+[2026-04-21 12:23:53] INFO - [44/128] Loại người ấy, lối sống ấy đã tỏa chiết tâm hồn người, bao phủ lên khắp nơi một bóng đen đáng sợ.
+[2026-04-21 12:23:57] INFO - [45/128] Vì quanh năm suốt tháng tự nhốt mình vào trong bao nên Bê-li-cốp như một người bệnh tưởng, trầm cảm.
+[2026-04-21 12:24:02] INFO - [46/128] Hắn sợ ánh sáng, sợ bóng tối, sợ trộm vào nhà, sợ lão nấu bếp cắt cổ hắn.
+[2026-04-21 12:24:06] INFO - [47/128] Nhà lúc nào cũng đóng chặt cửa, cài then, trùm chăn kín mít đầu lúc ngủ.
+[2026-04-21 12:24:09] INFO - [48/128] Mùa hè cũng như mùa đông, hắn đều mặc áo khoác ngoài.
+[2026-04-21 12:24:12] INFO - [49/128] Suốt đêm, hắn mơ toàn những điều khủng khiếp.
+[2026-04-21 12:24:14] INFO - [50/128] Vì thế buổi sáng nào đến lớp, mặt hắn cũng tái nhợt, rầu rĩ một cách thảm hại!
+[2026-04-21 12:24:18] INFO - [51/128] Lối sống đó là sống khổ, sống mà như chết.
+[2026-04-21 12:24:21] INFO - [52/128] Bê-li-cốp đã tự cầm tù mình, đày đọa mình, gây đau khổ cho mình.
+[2026-04-21 12:24:25] INFO - [53/128] Hắn thật đáng thương hại.
+[2026-04-21 12:24:27] INFO - [54/128] Hóm hỉnh và ý vị biết bao khi tác giả nói về bi kịch ái tình của Bê-li-cốp.
+[2026-04-21 12:24:31] INFO - [55/128] Cô giáo Va-ren-ca khoảng ba mươi tuổi mới về trường, thế là nữ thần ái tình đến gõ cửa trái tim Bê-li-cốp.
+[2026-04-21 12:24:36] INFO - [56/128] Trên bàn trong ngôi nhà chật như cái hộp, hắn trân trọng đặt tấm ảnh người đẹp.
+[2026-04-21 12:24:39] INFO - [57/128] Ý định lấy vợ choáng ngợp tâm hồn hắn, nhưng vì quen sống trong bao nên hắn cứ lần lữa, đắn đo.
+[2026-04-21 12:24:44] INFO - [58/128] Hắn bị ghép đôi, rồi hắn có vẻ thích Va-ren-ca..
+[2026-04-21 12:24:47] INFO - [59/128] thế là bức tranh biếm họa kể si tình được gởi đến tất cả giáo viên hai trường nam nữ, giáo viên chủng viện, các viên chức và cả Bê-li-cốp nữa.
+[2026-04-21 12:24:53] INFO - [60/128] Bức biếm họa mới gợi tình làm sao: Bê-li-cốp đang đi, chân xỏ trong giày mưa, quần túm ống, tay cầm ô, tay khoác tay Va-ren-ca.
+[2026-04-21 12:24:59] INFO - [61/128] Chà!
+[2026-04-21 12:25:01] INFO - [62/128] Người trong bao lãng mạn và đa tình quá!
+[2026-04-21 12:25:04] INFO - [63/128] Nhưng Bê-li-cốp lại bị sốc, bức tranh gây cho hắn một ấn tượng nặng nề.
+[2026-04-21 12:25:07] INFO - [64/128] Tác giả đã tạo nên những chi tiết điển hình, những tình huống điển hình để khắc họa tính cách của Bê-li-cốp.
+[2026-04-21 12:25:12] INFO - [65/128] Dư vị chua cay, hài hước của câu chuyện càng trở nên hấp dẫn, lôi cuốn.
+[2026-04-21 12:25:15] INFO - [66/128] Bê-li-cốp chẳng gặp hên chút nào!
+[2026-04-21 12:25:18] INFO - [67/128] Ngày chủ nhật, mồng một tháng năm hôm ấy, thầy trò cả trường trung học tổ chức cùng đi ra ngoài thành phố vào rừng chơi.
+[2026-04-21 12:25:23] INFO - [68/128] Nhưng anh chàng Bê-li-cốp đã bỏ về giữa chừng.
+[2026-04-21 12:25:25] INFO - [69/128] Giữa đường hắn bất ngờ thấy hai chị em Va-ren-ca cưỡi xe đạp phóng qua.
+[2026-04-21 12:25:29] INFO - [70/128] Cô chị mặt mày đỏ ửng, hớn hở, vui vẻ gào to: *Trời hôm nay đẹp thật, tuyệt đẹp, đẹp ghê gớm!
+[2026-04-21 12:25:34] INFO - [71/128] *.
+[2026-04-21 12:25:37] INFO - [72/128] Bê-li-cốp ngẩn người ra, như bị choáng, bị ma ám, mặt mày đang từ xanh lét chuyển sang trắng bệch.
+[2026-04-21 12:25:41] INFO - [73/128] Hắn phàn nàn, trách cứ: *Chẳng lẽ giáo viên và đàn bà con gái lại có thể cưỡi xe đạp, làm như thế coi sao tiện?
+[2026-04-21 12:25:46] INFO - [74/128] *.
+[2026-04-21 12:25:47] INFO - [75/128] Phải chăng hắn là một kẻ cổ hủ đáng cười?
+[2026-04-21 12:25:50] INFO - [76/128] Phải chăng hắn là một nhà mô phạm đang bảo vệ nền đạo đức chính thống?
+[2026-04-21 12:25:54] INFO - [77/128] Suốt ngày hôm sau, hắn đau khổ, dằn vặt, bực dọc, toàn thân run lên; thậm chí hắn bỏ cả buổi lên lớp, bỏ cả cơm trưa.
+[2026-04-21 12:26:01] INFO - [78/128] Tối hôm đó, dù đang tiết mùa hạ, nhà đạo đức bèn mặc áo ấm lần mò đến nhà hai chị em Va-ren-ca.
+[2026-04-21 12:26:09] INFO - [79/128] Cô chị đi vắng, hắn chỉ gặp được người em.
+[2026-04-21 12:26:13] INFO - [80/128] Hắn thật thà thanh minh về bức tranh châm biếm.
+[2026-04-21 12:26:16] INFO - [81/128] Hắn khẳng định, phân tích nhân cách tử tế, đứng đắn của mình.
+[2026-04-21 12:26:21] INFO - [82/128] Lấy tư cách là bạn đồng nghiệp đi trước, hắn nhắc nhở kẻ mới bắt đầu đi làm đôi điều.
+[2026-04-21 12:26:27] INFO - [83/128] Hắn chê trách việc đi xe đạp của hai chị em Va-ren-ca hoàn toàn không phù hợp với tư thế của một nhà giáo dục thiếu niên.
+[2026-04-21 12:26:34] INFO - [84/128] Hắn cảnh cáo việc đi xe đạp ấy là thiếu gương mẫu, là trái pháp luật, trái nội quy vì chưa có chỉ thị nào cho phép thì không được làm.
+[2026-04-21 12:26:43] INFO - [85/128] Hắn bày tỏ thái độ nào là phát kinh lên, hoa mắt lên khi nhìn thấy cảnh đàn bà, con gái đi xe đạp!
+[2026-04-21 12:26:50] INFO - [86/128] Hắn khuyên nhủ Cô-va-len-cô phải xử sự thận trọng, không được mặc áo thêu ra đường, không được cầm sách này sách nọ vừa đi vừa đọc..
+[2026-04-21 12:26:59] INFO - [87/128] , hắn nhắc nhở nếu chuyện ấy đến tai hiệu trưởng, ông thanh tra thì còn ra cái thể thống gì nữa.
+[2026-04-21 12:27:04] INFO - [88/128] Khi bị Cô-va-len-cô cự lại, hắn răn dạy: *Anh cần phải có thái độ kính trọng đối với chính quyền*.
+[2026-04-21 12:27:11] INFO - [89/128] Hắn dọa sẽ báo cáo với ngài hiệu trưởng nội dung câu chuyện mà hắn và Cô-va-len-cô đã trao đổi.
+[2026-04-21 12:27:16] INFO - [90/128] Cuộc đôi co diễn ra.
+[2026-04-21 12:27:19] INFO - [91/128] Cô-va-len-cô thô bạo chỉ vào mặt Bê-li-cốp và bảo hắn là tên mách lẻo, rồi túm lấy cổ áo hắn, tống hắn ra khỏi nhà.
+[2026-04-21 12:27:27] INFO - [92/128] Hắn lộn nhào xuống cầu thang.
+[2026-04-21 12:27:30] INFO - [93/128] Sự việc diễn ra đầy kịch tính.
+[2026-04-21 12:27:34] INFO - [94/128] Khi Bê-li-cốp sờ lên mũi xem cặp kính có còn nguyên vẹn hay không, thì Va-ren-ca bỗng nhiên xuất hiện, nhìn thấy.
+[2026-04-21 12:27:41] INFO - [95/128] Bê-li-cốp đau khổ cảm thấy thà tự vặt cổ còn hơn là tự biến thành trò cười cho thiên hạ.
+[2026-04-21 12:27:47] INFO - [96/128] Hắn vô cùng lo sợ câu chuyện sẽ đến tai thầy hiệu trưởng, ngài thanh tra.
+[2026-04-21 12:27:52] INFO - [97/128] Người ta sẽ vẽ tranh châm biếm hắn, sẽ ép hắn về hưu..
+[2026-04-21 12:27:56] INFO - [98/128] Có bao chi tiết bi hài.
+[2026-04-21 12:27:59] INFO - [99/128] Nhất là khi Va-ren-ca phá lên cười vang khắp khu nhà.
+[2026-04-21 12:28:04] INFO - [100/128] Tiếng cười *ha - ha - ha* lảnh lót, âm vang đã chấm dứt tất cả: chấm dứt chuyện cưới xin, chấm dứt cả cuộc đời Bê-li-cốp.
+[2026-04-21 12:28:12] INFO - [101/128] Cái ngã của Bê-li-cốp xuống chân cầu thang và điệu cười của Va-ren-ca có giá trị và ý nghĩa phê phán một cách chua cay lối sống giáo điều, dung tục của hạng người trong bao.
+[2026-04-21 12:28:23] INFO - [102/128] Kẻ hủ lậu lên mặt đạo đức giả, dạy đời bằng bài học luân lí cổ hủ đã bị tác giả châm biếm qua một tình huống bi hài.
+[2026-04-21 12:28:30] INFO - [103/128] Chỉ sau một tháng bị xô ngã, Bê-li-cốp chết.
+[2026-04-21 12:28:34] INFO - [104/128] Trước khi đi chầu Diêm Vương, hắn không quên cất tấm ảnh của Va-ren-ca để trên bàn đi.
+[2026-04-21 12:28:40] INFO - [105/128] Hắn nằm trong quan tài với vẻ mặt hiền lành, dễ chịu, tươi tỉnh.
+[2026-04-21 12:28:44] INFO - [106/128] Phải chăng hắn mừng vì được chui vào cái bao vĩnh viễn.
+[2026-04-21 12:28:48] INFO - [107/128] Đám ma hắn được cử hành trong một buổi trời mưa dầm âm u. Lúc hạ huyệt, Va-ren-ca bỗng òa lên khóc.
+[2026-04-21 12:28:54] INFO - [108/128] Nàng khóc vì thương tiếc cho một thiên tình sử chăng?
+[2026-04-21 12:28:58] INFO - [109/128] Nàng khóc vì thương hại một con người bảo thủ, cổ hủ từng làm trò cười cho thiên hạ chăng?
+[2026-04-21 12:29:04] INFO - [110/128] Sau khi Bê-li-cốp chết, lúc đầu ai cũng cảm thấy nhẹ nhàng, thoải mái.
+[2026-04-21 12:29:09] INFO - [111/128] Nhưng rồi chưa đầy một tuần sau, ai cũng cảm thấy nặng nề, mệt nhọc, vô vị vì cuộc sống đã lại diễn ra như cũ, chẳng tốt đẹp gì hơn trước.
+[2026-04-21 12:29:16] INFO - [112/128] Một Bê-li-cốp chết, một người trong bao đã chết nhưng còn biết bao nhiêu người trong bao nữa.
+[2026-04-21 12:29:21] INFO - [113/128] Tác giả đã chỉ rõ: lối sống tầm thường, hủ lậu, giáo điều..
+[2026-04-21 12:29:26] INFO - [114/128] đã đầu độc con người, đầu độc cuộc sống, sẽ gây ra bao hậu quả nặng nề, sẽ tồn tại dai dẳng trong xã hội Nga những năm cuối thế kỉ XIX đầu thế kỉ XX.
+[2026-04-21 12:29:35] INFO - [115/128] Mọi quái thai, mọi ung nhọt trong xã hội xưa nay đâu dễ một sớm một chiều mà tiệt nọc.
+[2026-04-21 12:29:40] INFO - [116/128] Một Bê-li-cốp chết đi nhưng sẽ còn bao nhiêu Bê-li-cốp nữa.
+[2026-04-21 12:29:45] INFO - [117/128] Phải biết coi khinh lối sống cổ hủ, coi khinh tính cách bọn người trong bao.
+[2026-04-21 12:29:49] INFO - [118/128] Phải biết sống và dám sống với tinh thần tự chủ, sống có trí tuệ và đạo đức của con người mới.
+[2026-04-21 12:29:55] INFO - [119/128] Đọc truyện này, ta phải biết tự hỏi bản thân sống như thế nào cho đáng sống.
+[2026-04-21 12:29:59] INFO - [120/128] Sê-khốp đã có một lối viết khá hấp dẫn.
+[2026-04-21 12:30:02] INFO - [121/128] Diễn biến câu chuyện được kể lại một cách tự nhiên, chân thực và sinh động.
+[2026-04-21 12:30:06] INFO - [122/128] Nhân vật Bê-li-cốp từ vật dụng, cử chỉ, hành động, ý nghĩ đến lối sống được thể hiện bằng nhiều chi tiết rất điển hình.
+[2026-04-21 12:30:13] INFO - [123/128] Hắn là sản phẩm tất yếu của cái xã hội tù túng, trì trệ.
+[2026-04-21 12:30:17] INFO - [124/128] Nhân vật Va-ren-ca là một nét vẽ đầy tương phản, ấn tượng.
+[2026-04-21 12:30:21] INFO - [125/128] Nàng yêu đời, sống hồn nhiên, hay ca hát, hay cười, động một tí là cười phá lên.
+[2026-04-21 12:30:25] INFO - [126/128] Cuộc sống tự do, phóng túng của hai chị em nàng đã làm xao động cái không khí buồn thảm nơi tỉnh lẻ và làm rách nát cái bao của Bê-li-cốp, đẩy hắn ta nằm yên trong quan tài - cái bao nơi âm phủ.
+[2026-04-21 12:30:35] INFO - [127/128] Bức tranh biếm họa, cái ngã cầu thang, cái chết lặng lẽ và đám ma của Bê-li-cốp có giá trị và ý nghĩa phê phán, châm biếm sâu cay.
+[2026-04-21 12:30:42] INFO - [128/128] **Người trong bao** là một truyện ngắn đầy dư vị đưa độc giả tự đi tìm bóng mình và soi vào bóng người để mà sống có ý nghĩa hơn như văn hào Lỗ Tấn đã nói.
+[2026-04-21 12:30:52] INFO - Hoàn thành sau 615.7s
+[2026-04-21 12:30:52] INFO - File output: D:\00 P.PhD\Github\voice-cloning-project\outputs\cloned\vi_clone_20260421_122035.wav

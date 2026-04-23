@@ -1,0 +1,49 @@
+[2026-04-21 11:43:50] INFO - 📝 Log file: D:\00 P.PhD\Github\voice-cloning-project\outputs\logs\clone_20260421_114350.log
+[2026-04-21 11:43:50] INFO - Model đã có sẵn tại: D:\00 P.PhD\Github\voice-cloning-project\models\vixtts
+[2026-04-21 11:43:50] INFO - Đang load viXTTS...
+[2026-04-21 11:45:03] INFO - Đã patch tokenizer.char_limits['vi'] = 250
+[2026-04-21 11:45:03] INFO - Đã patch tokenizer.preprocess_text cho tiếng Việt.
+[2026-04-21 11:45:03] INFO - Đã patch tokenizer.encode cho tiếng Việt.
+[2026-04-21 11:45:04] INFO - Đang chạy bằng GPU.
+[2026-04-21 11:45:04] INFO - Load model xong sau 74.6s
+[2026-04-21 11:45:05] INFO - Reference WAV: D:\00 P.PhD\Github\voice-cloning-project\data\reference_voices\converted\my_voice_std.wav
+[2026-04-21 11:45:05] INFO - Duration: 23.68s
+[2026-04-21 11:45:05] INFO - Text: Tôi yêu em là một trong những bài thơ tình nổi tiếng của A.X. Pu-skin, được khơi nguồn từ mối tình của nhà thơ với A.A. Ô-lê-nhi-na (con gái của A.N. Ô-lê-nhin, Chủ tịch Viện Hàn lâm nghệ thuật Nga) - người mà mùa hè năm 1829 A.x. Pu-skin đã cầu hôn nhưng không được chấp nhận. Bài thơ được sắp xếp liền mạch 8 câu, không chia thành các khổ thơ. Toàn bài có hai câu thơ lớn, mỗi câu bốn dòng thơ. Như vậy, bài thơ gồm có hai phần, cả hai phần đều bắt đầu bằng một cụm từ Tôi yêu em. Mới đọc bài thơ, chúng ta có cảm giác tác giả trình bày theo lối vòng tròn, có vẻ như trùng lặp, nhưng trên thực tế, bài thơ cố ý trào lên ào ạt như những con sóng vỗ bờ, con sóng sau dữ dội hơn con sóng trước. Hình thức biểu đạt trùng nhau nhưng cảm xúc có sự tăng cường. tôi yêu em Xét bề ngoài câu chữ, nhân vật trữ tình dường như thông báo việc rút lui, từ bỏ tình yêu, dập tắt lửa tình. Đó là trật tự logic trong cách giãi bày tình cảm của nhân vật trữ tình. Nhưng trật tự logic đó chỉ là bề ngoài, còn trong sâu thẳm tâm hồn, mạch cảm xúc của nhân vật trữ tình cuồn cuộn chảy, bất chấp logic. Không nén được, cảm xúc đó bật lên như một điệp khúc: Tôi yêu em. Tôi yêu em được lặp nhiều lần như một điệp khúc. Đó vừa là một khẳng định không chút hồ nghi, bâng khuâng, do dự, vừa là một sự thú nhận với tất cả chân thành thốt lên tận đáy lòng. Đó là khát vọng cháy bỏng của một trái tim yêu muốn được đáp lại. Đó còn là một lí luận của tình yêu, tôi có quyền yêu em dù cho em có yêu tôi hay không. Lí luận của con tim đã bất chấp lí luận của lí trí. Lí trí muốn dập tắt lửa tình nhưng con tim vẫn muốn thốt ra Tôi yêu em. Hai câu thơ cuối cùng là câu trả lời, vụt sáng lên một giá trị nhân văn, một tư thế cao thượng của con người đáng yêu ấy: Tôi yêu em, yêu chân thành, đằm thắm, Cầu em được người tình như tôi đã yêu em. Cảm xúc bị dồn nén được giải tỏa, tuôn trào. Điệp khúc tôi yễu em được lặp lại đến ba lần như một lời khẳng định tình yêu của tác giả rất chân thành đằm thắm. Điều đó có nghĩa ngọn lửa tình yêu trong trái tim tác giả không bao giờ tắt, không bao giờ lụi tàn, nhạt phai. Chính sự chân thành, đằm thắm, không bao giờ nhạt phai ấy là cái gốc của tấm lòng cao thượng trong tình yêu. Nó lí giải vì sao tác giả ở đoạn trên lại có một xử sự dịu dàng, tế nhị, trân trọng người mình yêu và đến cuối bài thơ lại có một lời chúc thiêng liêng đầy vị tha: Tôi cầu mong em có được một người yểu em cũng chân thành đằm thắm như tôi. Có một điều tế nhị sâu xa trong hoàn cảnh trớ trêu này. Tình yêu khi không được đền đáp thường là nỗi khổ đau đưa đến lòng tự ái, hận thù, nhưng nếu đó là tình yêu của một trái tim chân thật, độ lượng, nhân hậu, thì dù bị cự tuyệt, con người cũng có thể có những xử sự cao thượng. Lời cầu mong cuối bài thơ còn là lời nhắn nhủ của một trái tim giàu độ lượng. Chính thái độ trân trọng, tôn thờ, sùng kính đối với phụ nữ đã đưa bài thơ của Pu-skin vươn tới những giá trị nhân văn cao cả trong kho tàng thơ tình nhân loại. Bài thơ diễn tả một tình yêu vô vọng mang âm sắc buồn nhưng trên hết vẫn là sự mãnh liệt và cao thượng của trái tim một con người với mối tình không thành. Ngôn ngữ thơ giản dị, trong sáng. Chất thơ của bài thơ toát ra những cảm xúc chân thành, ghìm nén, những lời nói giản dị nhưng đầy thiết tha tế nhị, mãnh liệt, đằm thắm và cao thượng. Tôi yèu em là khúc hát của trái tim, là một bài thơ tình độc đáo trong thơ ca nhân loại.
+[2026-04-21 11:45:05] INFO - Language: vi
+[2026-04-21 11:45:05] INFO - Output: D:\00 P.PhD\Github\voice-cloning-project\outputs\cloned\vi_clone_20260421_114504.wav
+[2026-04-21 11:45:05] INFO - Đang tính speaker embedding...
+[2026-04-21 11:45:08] INFO - Tách thành 32 câu
+[2026-04-21 11:45:08] INFO - [1/32] Tôi yêu em là một trong những bài thơ tình nổi tiếng của A.X.
+[2026-04-21 11:45:15] INFO - [2/32] Pu-skin, được khơi nguồn từ mối tình của nhà thơ với A.A. Ô-lê-nhi-na (con gái của A.N. Ô-lê-nhin, Chủ tịch Viện Hàn lâm nghệ thuật Nga) - người mà mùa hè năm 1829 A.x.
+[2026-04-21 11:45:35] INFO - [3/32] Pu-skin đã cầu hôn nhưng không được chấp nhận.
+[2026-04-21 11:45:41] INFO - [4/32] Bài thơ được sắp xếp liền mạch 8 câu, không chia thành các khổ thơ.
+[2026-04-21 11:45:49] INFO - [5/32] Toàn bài có hai câu thơ lớn, mỗi câu bốn dòng thơ.
+[2026-04-21 11:45:56] INFO - [6/32] Như vậy, bài thơ gồm có hai phần, cả hai phần đều bắt đầu bằng một cụm từ Tôi yêu em.
+[2026-04-21 11:46:06] INFO - [7/32] Mới đọc bài thơ, chúng ta có cảm giác tác giả trình bày theo lối vòng tròn, có vẻ như trùng lặp, nhưng trên thực tế, bài thơ cố ý trào lên ào ạt như những con sóng vỗ bờ, con sóng sau dữ dội hơn con sóng trước.
+[2026-04-21 11:46:28] INFO - [8/32] Hình thức biểu đạt trùng nhau nhưng cảm xúc có sự tăng cường.
+[2026-04-21 11:46:35] INFO - [9/32] tôi yêu em Xét bề ngoài câu chữ, nhân vật trữ tình dường như thông báo việc rút lui, từ bỏ tình yêu, dập tắt lửa tình.
+[2026-04-21 11:46:46] INFO - [10/32] Đó là trật tự logic trong cách giãi bày tình cảm của nhân vật trữ tình.
+[2026-04-21 11:46:55] INFO - [11/32] Nhưng trật tự logic đó chỉ là bề ngoài, còn trong sâu thẳm tâm hồn, mạch cảm xúc của nhân vật trữ tình cuồn cuộn chảy, bất chấp logic.
+[2026-04-21 11:47:08] INFO - [12/32] Không nén được, cảm xúc đó bật lên như một điệp khúc: Tôi yêu em.
+[2026-04-21 11:47:15] INFO - [13/32] Tôi yêu em được lặp nhiều lần như một điệp khúc.
+[2026-04-21 11:47:23] INFO - [14/32] Đó vừa là một khẳng định không chút hồ nghi, bâng khuâng, do dự, vừa là một sự thú nhận với tất cả chân thành thốt lên tận đáy lòng.
+[2026-04-21 11:47:34] INFO - [15/32] Đó là khát vọng cháy bỏng của một trái tim yêu muốn được đáp lại.
+[2026-04-21 11:47:38] INFO - [16/32] Đó còn là một lí luận của tình yêu, tôi có quyền yêu em dù cho em có yêu tôi hay không.
+[2026-04-21 11:47:43] INFO - [17/32] Lí luận của con tim đã bất chấp lí luận của lí trí.
+[2026-04-21 11:47:47] INFO - [18/32] Lí trí muốn dập tắt lửa tình nhưng con tim vẫn muốn thốt ra Tôi yêu em.
+[2026-04-21 11:47:52] INFO - [19/32] Hai câu thơ cuối cùng là câu trả lời, vụt sáng lên một giá trị nhân văn, một tư thế cao thượng của con người đáng yêu ấy: Tôi yêu em, yêu chân thành, đằm thắm, Cầu em được người tình như tôi đã yêu em.
+[2026-04-21 11:48:03] INFO - [20/32] Cảm xúc bị dồn nén được giải tỏa, tuôn trào.
+[2026-04-21 11:48:07] INFO - [21/32] Điệp khúc tôi yễu em được lặp lại đến ba lần như một lời khẳng định tình yêu của tác giả rất chân thành đằm thắm.
+[2026-04-21 11:48:13] INFO - [22/32] Điều đó có nghĩa ngọn lửa tình yêu trong trái tim tác giả không bao giờ tắt, không bao giờ lụi tàn, nhạt phai.
+[2026-04-21 11:48:18] INFO - [23/32] Chính sự chân thành, đằm thắm, không bao giờ nhạt phai ấy là cái gốc của tấm lòng cao thượng trong tình yêu.
+[2026-04-21 11:48:24] INFO - [24/32] Nó lí giải vì sao tác giả ở đoạn trên lại có một xử sự dịu dàng, tế nhị, trân trọng người mình yêu và đến cuối bài thơ lại có một lời chúc thiêng liêng đầy vị tha: Tôi cầu mong em có được một người yểu em cũng chân thành đằm thắm như tôi.
+[2026-04-21 11:48:35] INFO - [25/32] Có một điều tế nhị sâu xa trong hoàn cảnh trớ trêu này.
+[2026-04-21 11:48:39] INFO - [26/32] Tình yêu khi không được đền đáp thường là nỗi khổ đau đưa đến lòng tự ái, hận thù, nhưng nếu đó là tình yêu của một trái tim chân thật, độ lượng, nhân hậu, thì dù bị cự tuyệt, con người cũng có thể có những xử sự cao thượng.
+[2026-04-21 11:48:49] INFO - [27/32] Lời cầu mong cuối bài thơ còn là lời nhắn nhủ của một trái tim giàu độ lượng.
+[2026-04-21 11:48:53] INFO - [28/32] Chính thái độ trân trọng, tôn thờ, sùng kính đối với phụ nữ đã đưa bài thơ của Pu-skin vươn tới những giá trị nhân văn cao cả trong kho tàng thơ tình nhân loại.
+[2026-04-21 11:49:01] INFO - [29/32] Bài thơ diễn tả một tình yêu vô vọng mang âm sắc buồn nhưng trên hết vẫn là sự mãnh liệt và cao thượng của trái tim một con người với mối tình không thành.
+[2026-04-21 11:49:11] INFO - [30/32] Ngôn ngữ thơ giản dị, trong sáng.
+[2026-04-21 11:49:14] INFO - [31/32] Chất thơ của bài thơ toát ra những cảm xúc chân thành, ghìm nén, những lời nói giản dị nhưng đầy thiết tha tế nhị, mãnh liệt, đằm thắm và cao thượng.
+[2026-04-21 11:49:22] INFO - [32/32] Tôi yèu em là khúc hát của trái tim, là một bài thơ tình độc đáo trong thơ ca nhân loại.
+[2026-04-21 11:49:28] INFO - Hoàn thành sau 259.4s
+[2026-04-21 11:49:28] INFO - File output: D:\00 P.PhD\Github\voice-cloning-project\outputs\cloned\vi_clone_20260421_114504.wav

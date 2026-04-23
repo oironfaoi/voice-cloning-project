@@ -1,0 +1,26 @@
+[2026-04-11 13:55:12] INFO - 📝 Log file: D:\00 P.PhD\Github\voice-cloning-project\outputs\logs\clone_20260411_135512.log
+[2026-04-11 13:55:12] INFO - Model đã có sẵn tại: D:\00 P.PhD\Github\voice-cloning-project\models\vixtts
+[2026-04-11 13:55:12] INFO - Đang load viXTTS...
+[2026-04-11 13:56:24] INFO - Đã patch tokenizer.char_limits['vi'] = 250
+[2026-04-11 13:56:24] INFO - Đã patch tokenizer.preprocess_text cho tiếng Việt.
+[2026-04-11 13:56:24] INFO - Đã patch tokenizer.encode cho tiếng Việt.
+[2026-04-11 13:56:25] INFO - Đang chạy bằng GPU.
+[2026-04-11 13:56:25] INFO - Load model xong sau 73.8s
+[2026-04-11 13:56:26] INFO - Reference WAV: D:\00 P.PhD\Github\voice-cloning-project\data\reference_voices\converted\my_voice_std.wav
+[2026-04-11 13:56:26] INFO - Duration: 27.73s
+[2026-04-11 13:56:26] INFO - Text: Đại biểu Quốc hội Trần Nhật Minh đề nghị không quy định xác nhận tình trạng hôn nhân vào đăng ký hộ tịch nhằm giảm giấy tờ, tránh phát sinh thủ tục khi người dân thực hiện các giao dịch dân sự. Thảo luận dự án Luật Hộ tịch sửa đổi sáng 11/4, đại biểu Quốc hội Trần Nhật Minh, chuyên trách đoàn Nghệ An, cho biết dự thảo đang đưa xác nhận tình trạng hôn nhân - như độc thân, đã kết hôn, ly hôn - thành một nội dung đăng ký hộ tịch. Ông đề nghị bỏ quy định này. Nguyên nhân là thông tin tình trạng hôn nhân của cá nhân đã được ghi nhận và tích hợp trong Cơ sở dữ liệu hộ tịch thống nhất trên toàn quốc. Việc tiếp tục yêu cầu người dân xin giấy xác nhận riêng dẫn tới phát sinh thêm một thủ tục hành chính, trong khi dữ liệu đã có sẵn. Giải trình về vấn đề này, cơ quan chủ trì soạn thảo cho rằng việc xác nhận tình trạng hôn nhân là cơ quan đăng ký hộ tịch cấp văn bản theo yêu cầu, nhằm cung cấp thông tin phục vụ các giao dịch dân sự và thủ tục hộ tịch. Không đồng tình, đại biểu Trần Nhật Minh dẫn Nghị định 123/2015, cho biết giấy xác nhận tình trạng hôn nhân chỉ có thời hạn 6 tháng và chỉ sử dụng cho một mục đích cụ thể ghi trong giấy. Vì vậy, đây không phải là giấy tờ nhân thân có giá trị lâu dài như giấy khai sinh hay giấy chứng nhận kết hôn. Ông cho rằng quy định này khiến người dân phải đi xin lại giấy nếu quá hạn hoặc thay đổi mục đích sử dụng, làm tăng chi phí thời gian và công sức, đặc biệt trong các giao dịch như mua bán nhà đất, vay vốn hoặc hoàn thiện hồ sơ hành chính khác.
+[2026-04-11 13:56:26] INFO - Language: vi
+[2026-04-11 13:56:26] INFO - Output: D:\00 P.PhD\Github\voice-cloning-project\outputs\cloned\vi_clone_20260411_135625.wav
+[2026-04-11 13:56:26] INFO - Đang tính speaker embedding...
+[2026-04-11 13:56:38] INFO - Tách thành 9 câu
+[2026-04-11 13:56:38] INFO - [1/9] Đại biểu Quốc hội Trần Nhật Minh đề nghị không quy định xác nhận tình trạng hôn nhân vào đăng ký hộ tịch nhằm giảm giấy tờ, tránh phát sinh thủ tục khi người dân thực hiện các giao dịch dân sự.
+[2026-04-11 13:56:47] INFO - [2/9] Thảo luận dự án Luật Hộ tịch sửa đổi sáng 11/4, đại biểu Quốc hội Trần Nhật Minh, chuyên trách đoàn Nghệ An, cho biết dự thảo đang đưa xác nhận tình trạng hôn nhân - như độc thân, đã kết hôn, ly hôn - thành một nội dung đăng ký hộ tịch.
+[2026-04-11 13:56:57] INFO - [3/9] Ông đề nghị bỏ quy định này.
+[2026-04-11 13:56:59] INFO - [4/9] Nguyên nhân là thông tin tình trạng hôn nhân của cá nhân đã được ghi nhận và tích hợp trong Cơ sở dữ liệu hộ tịch thống nhất trên toàn quốc.
+[2026-04-11 13:57:05] INFO - [5/9] Việc tiếp tục yêu cầu người dân xin giấy xác nhận riêng dẫn tới phát sinh thêm một thủ tục hành chính, trong khi dữ liệu đã có sẵn.
+[2026-04-11 13:57:11] INFO - [6/9] Giải trình về vấn đề này, cơ quan chủ trì soạn thảo cho rằng việc xác nhận tình trạng hôn nhân là cơ quan đăng ký hộ tịch cấp văn bản theo yêu cầu, nhằm cung cấp thông tin phục vụ các giao dịch dân sự và thủ tục hộ tịch.
+[2026-04-11 13:57:20] INFO - [7/9] Không đồng tình, đại biểu Trần Nhật Minh dẫn Nghị định 123/2015, cho biết giấy xác nhận tình trạng hôn nhân chỉ có thời hạn 6 tháng và chỉ sử dụng cho một mục đích cụ thể ghi trong giấy.
+[2026-04-11 13:57:30] INFO - [8/9] Vì vậy, đây không phải là giấy tờ nhân thân có giá trị lâu dài như giấy khai sinh hay giấy chứng nhận kết hôn.
+[2026-04-11 13:57:35] INFO - [9/9] Ông cho rằng quy định này khiến người dân phải đi xin lại giấy nếu quá hạn hoặc thay đổi mục đích sử dụng, làm tăng chi phí thời gian và công sức, đặc biệt trong các giao dịch như mua bán nhà đất, vay vốn hoặc hoàn thiện hồ sơ hành chính khác.
+[2026-04-11 13:57:45] INFO - Hoàn thành sau 67.0s
+[2026-04-11 13:57:45] INFO - File output: D:\00 P.PhD\Github\voice-cloning-project\outputs\cloned\vi_clone_20260411_135625.wav

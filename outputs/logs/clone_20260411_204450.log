@@ -1,0 +1,12 @@
+[2026-04-11 20:44:50] INFO - 📝 Log file: D:\00 P.PhD\Github\voice-cloning-project\outputs\logs\clone_20260411_204450.log
+[2026-04-11 20:44:50] INFO - Đang khởi tạo VieNeu-TTS...
+[2026-04-11 20:44:55] INFO - Model loaded sau 4.8s
+[2026-04-11 20:44:55] INFO - Không thấy danh sách giọng preset.
+[2026-04-11 20:44:55] INFO - Tìm thấy 1 file text trong D:\00 P.PhD\Github\voice-cloning-project\data\texts
+[2026-04-11 20:44:55] INFO - [1/1] sample.txt
+[2026-04-11 20:44:55] INFO - Đang xử lý file text: D:\00 P.PhD\Github\voice-cloning-project\data\texts\sample.txt
+[2026-04-11 20:44:55] INFO - Giọng mẫu: D:\00 P.PhD\Github\voice-cloning-project\data\reference_voices\my_voice.wav
+[2026-04-11 20:44:55] INFO - Độ dài text: 1500 ký tự
+[2026-04-11 20:44:55] INFO - Đang synth bằng reference voice...
+[2026-04-11 20:45:31] INFO - Đã lưu: D:\00 P.PhD\Github\voice-cloning-project\outputs\cloned\vieneu_sample.wav
+[2026-04-11 20:45:31] INFO - Hoàn thành 1 file audio.

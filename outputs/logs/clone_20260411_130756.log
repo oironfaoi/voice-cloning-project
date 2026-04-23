@@ -1,0 +1,14 @@
+[2026-04-11 13:07:56] INFO - 📝 Log file: D:\00 P.PhD\Github\voice-cloning-project\outputs\logs\clone_20260411_130756.log
+[2026-04-11 13:07:56] INFO - 🔄 Đang tải model: tts_models/multilingual/multi-dataset/xtts_v2
+[2026-04-11 13:07:56] INFO - 🖥️  Device yêu cầu: cuda
+[2026-04-11 13:08:19] INFO - ✅ Model đã tải xong (23.1s)
+[2026-04-11 13:08:19] INFO - 🖥️  Device thực tế: cuda
+[2026-04-11 13:08:19] INFO - 🎤 Input reference: D:\00 P.PhD\Github\voice-cloning-project\data\reference_voices\my_voice.wav
+[2026-04-11 13:08:20] INFO - 🔄 Converted WAV  : D:\00 P.PhD\Github\voice-cloning-project\data\reference_voices\converted\my_voice_std.wav
+[2026-04-11 13:08:20] INFO - ⏱️  Duration       : 27.73s
+[2026-04-11 13:08:20] INFO - 📝 Văn bản   : Xin chào, đây là giọng nói được clone bằng trí tuệ nhân tạo.
+[2026-04-11 13:08:20] INFO - 🌐 Ngôn ngữ  : en
+[2026-04-11 13:08:20] INFO - 💾 Output    : D:\00 P.PhD\Github\voice-cloning-project\outputs\cloned\clone_20260411_130819.wav
+[2026-04-11 13:08:20] INFO - 🔄 Đang tạo audio...
+[2026-04-11 13:08:33] INFO - ✅ Hoàn thành! (13.1s)
+[2026-04-11 13:08:33] INFO - 📦 Kích thước file: 359 KB
