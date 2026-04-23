@@ -24,6 +24,7 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from utils import generate_output_filename, load_config, resolve_path, setup_logger
+from text_normalization import detect_language, normalize_text as _vi_normalize_text
 
 from TTS.tts.configs.xtts_config import XttsConfig
 from TTS.tts.models.xtts import Xtts
@@ -173,39 +174,13 @@ class VietnameseVoiceCloner:
     @staticmethod
     def normalize_vietnamese_text(text: str) -> str:
         """
-        Chuẩn hóa nhẹ, an toàn trên Windows.
-        Không dùng vinorm để tránh lỗi UnicodeEncodeError.
+        Chuẩn hóa văn bản tiếng Việt trước khi đưa vào mô hình TTS.
+
+        Delegate đến text_normalization.normalize_text để thực hiện toàn
+        bộ pipeline: bảo vệ code/URL/ID, mở rộng viết tắt, chuyển đổi
+        số/ngày/tiền tệ/đơn vị sang chữ tiếng Việt, dọn dấu câu.
         """
-        if not text:
-            return ""
-
-        text = text.strip()
-
-        replacements = {
-            "A.I": "Ây Ai",
-            "AI": "Ây Ai",
-            "TP.HCM": "thành phố Hồ Chí Minh",
-            "\n": " ",
-            "\t": " ",
-        }
-
-        for old, new in replacements.items():
-            text = text.replace(old, new)
-
-        while "  " in text:
-            text = text.replace("  ", " ")
-
-        text = (
-            text.replace("..", ".")
-            .replace("!.", "!")
-            .replace("?.", "?")
-            .replace(" ,", ",")
-            .replace(" .", ".")
-            .replace('"', "")
-            .replace("'", "")
-        )
-
-        return text.strip()
+        return _vi_normalize_text(text, lang="vi")
 
     def _split_sentences(self, text: str) -> list[str]:
         """
@@ -247,8 +222,16 @@ class VietnameseVoiceCloner:
 
         speaker_wav = self._ensure_reference_audio(speaker_audio)
 
-        if normalize_text and language == "vi":
-            text = self.normalize_vietnamese_text(text)
+        if normalize_text:
+            norm_cfg = self.config.get("normalization", {})
+            if norm_cfg.get("auto_detect_language", False):
+                detected = detect_language(text)
+                self.logger.info(f"Ngôn ngữ tự động phát hiện: {detected}")
+                effective_lang = detected
+            else:
+                effective_lang = language
+            if effective_lang == "vi":
+                text = self.normalize_vietnamese_text(text)
 
         self.logger.info(f"Text: {text}")
         self.logger.info(f"Language: {language}")

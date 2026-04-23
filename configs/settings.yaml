@@ -15,3 +15,13 @@ paths:
   log_dir: "./outputs/logs"
 
 language: "vi"
+
+normalization:
+  # Bật/tắt toàn bộ bước chuẩn hóa văn bản trước khi đưa vào mô hình.
+  enabled: true
+  # Khi true: tự động phát hiện ngôn ngữ (vi/en) từ nội dung văn bản
+  # thay vì luôn dùng giá trị 'language' ở trên.
+  auto_detect_language: false
+  # Khi true: bảo vệ code-block, inline-code, URL, email và ID
+  # khỏi bị rewrite trong quá trình chuẩn hóa.
+  preserve_spans: true
