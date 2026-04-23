@@ -222,8 +222,8 @@ class VietnameseVoiceCloner:
 
         speaker_wav = self._ensure_reference_audio(speaker_audio)
 
-        if normalize_text:
-            norm_cfg = self.config.get("normalization", {})
+        norm_cfg = self.config.get("normalization", {})
+        if normalize_text and norm_cfg.get("enabled", True):
             if norm_cfg.get("auto_detect_language", False):
                 detected = detect_language(text)
                 self.logger.info(f"Ngôn ngữ tự động phát hiện: {detected}")

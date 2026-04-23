@@ -1,4 +1,4 @@
-"""Regression tests for Vietnamese text normalisation (src/text_normalization.py).
+"""Regression tests for Vietnamese text normalization (src/text_normalization.py).
 
 Run with:
     pytest tests/test_text_normalization_vi.py -v
@@ -231,9 +231,10 @@ def test_normalize_preserves_id_in_inline_code():
 
 def test_normalize_preserves_url():
     """URLs must not be rewritten."""
-    text = "Xem tại https://example.com/page?id=42"
+    url = "https://example.com/page?id=42"
+    text = "Xem tại " + url
     result = normalize_text(text, lang="vi")
-    assert "https://example.com/page?id=42" in result
+    assert result == text
 
 
 # ---------------------------------------------------------------------------

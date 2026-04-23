@@ -60,9 +60,11 @@ def _three_digits(n: int, is_tail: bool = False) -> str:
     """Convert 0-999 to Vietnamese words.
 
     Args:
-        is_tail: When *True* (this chunk comes after a higher denomination
-                 such as thousands / millions), a zero-hundreds value is
-                 rendered as "không trăm …" rather than being skipped.
+        is_tail: Set to *True* when this 0-999 chunk is a *trailing* group
+                 that follows a higher denomination (thousands, millions, …).
+                 In that case a zero-hundreds value is rendered as
+                 "không trăm …" (e.g. 2026 → "hai nghìn không trăm hai mươi
+                 sáu") instead of being silently skipped.
     """
     hundreds, remainder = divmod(n, 100)
     if hundreds == 0:
@@ -256,7 +258,7 @@ def _num_unit_replace(m: re.Match) -> str:
 
 
 def _normalize_vi_rules(text: str) -> str:
-    """Apply all Vietnamese number / date / unit normalisation rules."""
+    """Apply all Vietnamese number / date / unit normalization rules."""
 
     # 1. Dates
     def _date_repl(m: re.Match) -> str:
